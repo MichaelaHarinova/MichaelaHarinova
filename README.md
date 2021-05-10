@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 <img align="left" alt="symfony" width="50px" src="https://camo.githubusercontent.com/5f629ca13dac6ce46fb0ba69780cf8480f753143d768a99750716bd75ed01c4a/68747470733a2f2f73796d666f6e792e636f6d2f6c6f676f732f73796d666f6e795f626c61636b5f30322e737667" />
 <img align="left" alt="dotnet" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
 <img align="left" alt="angular" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="csharp" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+
 
 
 
