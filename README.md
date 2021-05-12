@@ -1,7 +1,7 @@
 ## Hi, I'm  Michaela Harinova
 
 <!--
-**mharin/Michaela_Harinova* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MichaelaHarinova/MichaelaHarinova* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
