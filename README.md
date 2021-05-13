@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![JulioCesarTeixeira GitHub Stats](https://github-readme-stats.vercel.app/api?username=mharin&show_icons=true)
+![MichaelaHarinova GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelaHarinova&show_icons=true)
 
 - 🔭 I’m currently **looking for an internship** (starting in 08/21)
 - 🌱 I’m currently a Junior Web Developer learner at BeCode.org
