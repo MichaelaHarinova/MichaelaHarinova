@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ![MichaelaHarinova GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelaHarinova&show_icons=true)
 
-- 🔭 I’m currently **looking for an internship** (starting in 08/21)
-- 🌱 I’m currently a Junior Web Developer learner at BeCode.org
+- 🌱 I’m a Junior Web Developer.
+-  🔭 I’m currently **doing 3 months of internship** at Carbon + Alt + Delete as Frontend developer.
 
 ---
 
