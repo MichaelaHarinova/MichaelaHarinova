@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![MichaelaHarinova GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelaHarinova&show_icons=true)
 
 - 🌱 I’m a Junior Web Developer.
--  🔭 I’m currently working for Carbon+Alet+Delete as a software engeneer.
+-  🔭 I’m currently working for Carbon+Alt+Delete as a software engeneer.
 
 ---
 
